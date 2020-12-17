@@ -4,5 +4,14 @@ public class Main {
 
     public static void main(String[] args) {
 	// write your code here
+        int id = 123;
+        for(int i=0;i<id;i++){
+            if(i<=id){
+                System.out.println(i);
+            }else{
+                System.out.println(id);
+            }
+        }
+
     }
 }
