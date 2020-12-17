@@ -4,6 +4,7 @@ public class Main {
 
     public static void main(String[] args) {
 	// write your code here
+        int b=0;
         int id = 123;
         for(int i=0;i<id;i++){
             if(i<=id){
