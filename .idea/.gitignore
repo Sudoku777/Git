@@ -6,3 +6,5 @@
 *.war
 *.jar
 *.ear
+.idea
+out/

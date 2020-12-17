@@ -6,6 +6,8 @@ public class Main {
 	// write your code here
         int b=0;
         int id = 123;
+        int c=id+b;
+        System.out.println(c);
         for(int i=0;i<id;i++){
             if(i<=id){
                 System.out.println(i);
